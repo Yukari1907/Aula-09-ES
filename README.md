@@ -18,6 +18,8 @@ O que fazer:
 4. Use setas para mostrar o fluxo de uma ação (ex: usuário clica em "Adicionar Tarefa")
 5. Adicione uma legenda de cores
 
+<img width="1135" height="613" alt="Captura de tela 2026-05-01 220729" src="https://github.com/user-attachments/assets/1541315c-6390-4a84-a893-02771c681de9" />
+
 # Parte 2 — Protótipo no Figma
 
 O que fazer:
