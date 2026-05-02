@@ -29,3 +29,9 @@ O que fazer:
   - Tela 2: Modal ou tela de adicionar nova tarefa (campo de texto + botão salvar)
 3. Conecte as telas com prototype links (botão "+" leva à Tela 2, botão salvar volta à Tela 1)
 4. Nomeie os layers seguindo o MVC: View_ListaTarefas, View_AdicionarTarefa
+
+https://www.figma.com/design/7o1lCTqcSdiHO5sO4qcnzk/ToDoApp---Raissa?node-id=0-1&t=SQJQBHSeMu2ok8R0-1
+
+<img width="1901" height="846" alt="image" src="https://github.com/user-attachments/assets/58a7f3d5-3b50-447f-97ef-aca900ed18dc" />
+
+
